@@ -1,4 +1,4 @@
-OpenMRS_Project With the Maven project,
-I have configured Selenium using TestNG.
+In the OpenMRS_Project with a Maven-configured Cucumber project, embracing the BDD approach,
+I configured Selenium using TestNG.
 I tested the functionality and confirmed
 that the name and ID of the registered patient are correctly displayed on the patient's page.
