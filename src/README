@@ -1,0 +1,4 @@
+OpenMRS_Project With the Maven project,
+I have configured Selenium using TestNG.
+I tested the functionality and confirmed
+that the name and ID of the registered patient are correctly displayed on the patient's page.
